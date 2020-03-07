@@ -1,0 +1,5 @@
+gis/
+projects/*
+
+!projects/gis.vcxproj
+!projects/gis.vcxproj.filters
